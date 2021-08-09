@@ -1,0 +1,15 @@
+{{> menu id="dashboard"}}
+ <img class="ui medium rounded image" href="https://cdn.glitch.com/a33a33b6-6b11-4d53-84dc-94c7cc012d9b%2Fstart.jpg?v=1628425066135">
+{{#each stations}}
+
+  {{> latestconditions station=this }}
+  <a href="/station/{{id}}"class="ui icon button">  <i class="icon folder open"></i>
+    </a>
+ <a href="/dashboard/deletestation/{{id}}" class="ui icon button">
+      <i class="icon trash"></i>
+    </a>
+</section>
+
+{{/each}}
+
+{{> addstation }}

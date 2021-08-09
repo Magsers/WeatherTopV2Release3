@@ -1,0 +1,71 @@
+ <section class="ui segment">
+  <div class="ui inverted padded five cards">
+
+  <div class="primary card">
+    <div class="content">
+            <span class="ui blue text">
+            <p><i class="right floated large tint icon"></i></p>
+            <h2>{{station.name}}</h2>
+            <p>Latitude : {{station.lat}}</p>
+            <p>Longitude : {{station.lng}}</p>
+            </span>
+    </div>
+  </div>
+
+  <div class="ui red card">
+    <div class="content">
+            <span class="ui red text">
+                <p><i class="right floated big {{iconClass}}"></i></p>
+                <h3>Weather</h3>
+                <p color="#DB2828">{{weatherCode}}</p>   
+            </span>
+    </div>
+  </div>
+
+  <div class="teal card">
+    <div class="content">
+            <span class="ui teal text">
+                <p><i class="right floated big temperature high icon"></i></p>
+                <h3>Temperature</h3>
+                <p>{{latestReading.temp}} C </p>
+              <p>{{fahrenheit}} F </p>
+              <p>Min : {{minTemp}}</p>
+              <p>Max : {{maxTemp}}</p>
+                 <i class="right floated big {{tempArrow}}"></i>
+            </span>
+    </div>
+  </div>
+
+  <div class="olive card">
+    <div class="content">
+            <span class="ui olive text">
+                <p><i class="right floated big wind icon"></i></p>
+                <h3>Wind</h3>
+                <div class="item">{{beaufort}} bft</div>
+                <div class="item">{{windDirection}} </div></p>
+                <p>          
+              <div class="item">Feels Like : {{windChill}} </div></p>
+              <p>Min : {{minWind}}</p>
+              <p>Max : {{maxWind}}</p>
+                 <i class="right floated big {{windArrow}}"></i>
+             </span>
+    </div>
+  </div>
+
+  <div class="purple card">
+    <div class="content">
+            <span class="ui purple text">
+                <p><i class="right floated big tachometer alternate icon"></i></p>
+                <h3>Pressure</h3>
+                <p>{{latestReading.pressure}} hPa</p>
+              <p>Min : {{minPressure}}</p>
+              <p>Max : {{maxPressure}}</p>
+                <i class="right floated big ${_station.pressurearrow}"></i>
+            </span>
+    </div>
+  </div>
+
+</div>
+
+
+   

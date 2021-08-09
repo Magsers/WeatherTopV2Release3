@@ -1,0 +1,62 @@
+{
+  "stationList": [
+    {
+      "id": "0a841f80-f882-11eb-8334-392966e1cb69",
+      "userid": "850d8cf0-f7d3-11eb-b943-f997e8556a21",
+      "name": "Ardmore",
+      "lat": "44",
+      "lng": "44",
+      "readings": []
+    },
+    {
+      "id": "003592c0-f882-11eb-8334-392966e1cb69",
+      "userid": "850d8cf0-f7d3-11eb-b943-f997e8556a21",
+      "name": "Dunmanway",
+      "lat": "20",
+      "lng": "20",
+      "readings": []
+    },
+    {
+      "id": "605ffef0-f93c-11eb-af3f-cff6fbe850d3",
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "name": "Dunmanway",
+      "lat": "20",
+      "lng": "20",
+      "readings": [
+        {
+          "id": "1e442e20-f940-11eb-852f-a1e9eeb3c328",
+          "code": "400",
+          "temp": "15",
+          "windSpeed": "100",
+          "windDirection": "125",
+          "pressure": "1000",
+          "timeStamp": "2021-8-9, 18:32:14"
+        }
+      ]
+    },
+    {
+      "id": "0558ba70-f882-11eb-8334-392966e1cb69",
+      "userid": "850d8cf0-f7d3-11eb-b943-f997e8556a21",
+      "name": "Kinsale",
+      "lat": "33",
+      "lng": "33",
+      "readings": []
+    },
+    {
+      "id": "3ae8db90-f885-11eb-a2c7-a55c11bb5f74",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "name": "Owenahincha",
+      "lat": "90",
+      "lng": "10",
+      "readings": []
+    },
+    {
+      "id": "32a36540-f885-11eb-a2c7-a55c11bb5f74",
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "name": "Tramore",
+      "lat": "11",
+      "lng": "11",
+      "readings": []
+    }
+  ]
+}

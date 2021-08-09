@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "firstName": "homer",
+      "lastName": "simpson",
+      "email": "homer@simpson.com",
+      "password": "secret",
+      "id": "3ad52697-6d98-4d80-8273-084de55a86c0"
+    },
+    {
+      "firstName": "Helen",
+      "lastName": "Walsh",
+      "email": "marge@simpson.com",
+      "id": "2b6f0989-7b7f-4a38-ad26-aa06b922d751"
+    },
+    {
+      "firstName": "Margaret",
+      "lastName": "McCarthy",
+      "email": "devstmags@gmail.com",
+      "password": "hello",
+      "id": "850d8cf0-f7d3-11eb-b943-f997e8556a21"
+    },
+    {
+      "firstName": "Margaret",
+      "lastName": "McCarthy",
+      "email": "devstmags@gmail.com",
+      "password": "hello",
+      "id": "dcb7de10-f87d-11eb-af8b-df5d140b6493"
+    },
+    {
+      "firstName": "Tracy",
+      "lastName": "Wall",
+      "email": "tracy@wall.ie",
+      "password": "hello",
+      "id": "974fc5d0-f8ec-11eb-903a-8b45afc85dc2"
+    },
+    {
+      "firstName": "Mary",
+      "lastName": "Murphy",
+      "email": "mary@murphy.ie",
+      "password": "hello",
+      "id": "0ce2cd60-f8ed-11eb-a1ae-9d3754bf7a17"
+    },
+    {
+      "firstName": "Roisin",
+      "lastName": "Byrne",
+      "email": "roisin@byrne.ie",
+      "password": "hello",
+      "id": "1f6e9da0-f8ee-11eb-82d9-65f7144eaf6a"
+    },
+    {
+      "firstName": "Christina",
+      "lastName": "Morgan",
+      "email": "christina@hello.ie",
+      "password": "hello",
+      "id": "34004570-f8ee-11eb-bccd-932471920cec"
+    },
+    {
+      "firstName": "Margaret",
+      "lastName": "McCarthy",
+      "email": "tracy@wall.ie",
+      "password": "hello",
+      "id": "5cecf4b0-f8ee-11eb-ad32-49d2a5135f6c"
+    },
+    {
+      "firstName": "Margaret",
+      "lastName": "McCarthy",
+      "email": "tracy@wall.ie",
+      "password": "hello",
+      "id": "b0036710-f8ee-11eb-b401-512d2b953ad4"
+    },
+    {
+      "firstName": "Christina",
+      "lastName": "Morgan",
+      "email": "chris@morgan.ie",
+      "password": "hello",
+      "id": "6baaa5f0-f8ef-11eb-9d0c-073bd4eaf0ff"
+    },
+    {
+      "firstName": "Pat",
+      "lastName": "Mac",
+      "email": "pat@mac.ie",
+      "password": "secret",
+      "id": "5083e000-f928-11eb-9550-e9ff2bbe1962"
+    },
+    {
+      "firstName": "Liz",
+      "lastName": "Twomey",
+      "email": "liz@magan.ie",
+      "password": "hello",
+      "id": "6b89c090-f928-11eb-9550-e9ff2bbe1962"
+    }
+  ]
+}
